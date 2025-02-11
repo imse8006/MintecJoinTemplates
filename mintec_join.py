@@ -11,7 +11,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")
 categories = {
     "Catégorie 1": ["AddedCosts06 - Packaging UK Data Export", "AddedCosts07 - Packaging EU Data Export", "AddedCosts08 - Packaging US Data Export", "AddedCosts01 - Distribution UK Data Export", "Added Costs - 2 - Distribution EU Data Export", "AddedCosts03 - Distribution - World Data Export"],
     "Catégorie 2": ["PACKAGING8", "PACKAGING5", "PACKAGING3", "PACKAGING4"],
-    "Catégorie 3": ["Electricity base month ahead UK Data Export", "Electricity base EEX FR Data Export", "Electricity ind US Data Export", "Natural gas Eur Data Export", "Natural gas NBPI UK Data Export", "Crude oil Brent ICE EU Data Export", "Crude oil Brent fob UK Data Export", "Crude oil ave spot Data Export"]
+    "Catégorie 3": ["Electricity base month ahead UK Data Export", "Electricity base EEX FR Data Export", "Electricity ind US Data Export", "Natural gas Eur Data Export", "Natural gas NBPI UK Data Export", "Natural gas NYMEX US Data Export", "Crude oil Brent ICE EU Data Export", "Crude oil Brent fob UK Data Export", "Crude oil ave spot Data Export"]
 }
 
 category_colors = {"Catégorie 1": "FFD966", "Catégorie 2": "A9D08E", "Catégorie 3": "9BC2E6"}
