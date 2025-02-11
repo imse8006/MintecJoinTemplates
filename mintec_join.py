@@ -17,7 +17,7 @@ categories = {
 category_colors = {"Catégorie 1": "FFD966", "Catégorie 2": "A9D08E", "Catégorie 3": "9BC2E6"}
 
 source_folder = Path(r"C:\Users\IL00030293\OneDrive - Sysco Corporation\Documents\PGM\Mintec downloads\January\files")
-output_file = source_folder / "Merged_Data.xlsx"
+output_file = source_folder / "all_data_merged.xlsx"
 
 wb = Workbook()
 ws = wb.active
